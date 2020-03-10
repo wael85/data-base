@@ -459,11 +459,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MU8 Guest\\source\\repos\\DatabasCon\\DatabasCon\\DatabasCon.csproj",
+      "projectUniqueName": "C:\\Users\\MU8 Guest\\Desktop\\projcts\\DatabasCon\\DatabasCon\\DatabasCon.csproj",
       "projectName": "DatabasCon",
-      "projectPath": "C:\\Users\\MU8 Guest\\source\\repos\\DatabasCon\\DatabasCon\\DatabasCon.csproj",
+      "projectPath": "C:\\Users\\MU8 Guest\\Desktop\\projcts\\DatabasCon\\DatabasCon\\DatabasCon.csproj",
       "packagesPath": "C:\\Users\\MU8 Guest\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MU8 Guest\\source\\repos\\DatabasCon\\DatabasCon\\obj\\",
+      "outputPath": "C:\\Users\\MU8 Guest\\Desktop\\projcts\\DatabasCon\\DatabasCon\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MU8 Guest\\AppData\\Roaming\\NuGet\\NuGet.Config",
